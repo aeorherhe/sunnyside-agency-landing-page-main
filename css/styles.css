@@ -108,6 +108,7 @@ a {
   transition: var(--transition2);
   left: 50%;
   transform: translateX(-50%);
+  z-index: 11;
 }
 
 .nav-menu::after {
